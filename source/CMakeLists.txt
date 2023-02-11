@@ -1,0 +1,9 @@
+set(PROJECT_SOURCE 
+    ${CMAKE_CURRENT_SOURCE_DIR}/PluginProcessor.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/PluginEditor.cpp 
+    ${CMAKE_CURRENT_SOURCE_DIR}/audio/MarianaConvolution.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/audio/MarianaProcessor.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/ui/BackgroundComponent.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/ui/Readouts.cpp
+    PARENT_SCOPE
+)

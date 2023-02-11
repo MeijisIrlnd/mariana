@@ -1,0 +1,9 @@
+[submodule "modules/SDSP"]
+	path = modules/SDSP
+	url = https://github.com/MeijisIrlnd/SDSP.git
+[submodule "modules/SUX"]
+	path = modules/SUX
+	url = https://github.com/MeijisIrlnd/SUX.git
+[submodule "modules/--force"]
+	path = modules/--force
+	url = https://github.com/MeijisIrlnd/SDSP.git
